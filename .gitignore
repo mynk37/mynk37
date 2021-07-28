@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs
+/BookStore1/.vs/BookStore1
+/BookStore1/BookStore1/bin/Debug/net5.0
+/BookStore1/BookStore1/obj
+/BookStore1/BookStore1/Pages
+/BookStore1/BookStore1/wwwroot
